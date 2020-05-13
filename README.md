@@ -1,3 +1,10 @@
+<ul style="list-style-type: disc;">
+<li id="user-content-firstheading" lang="en"><a href="#firstHeading">Frankism</a></li>
+<li id="user-content-firstheading" lang="en"><a href="#firstHeading1">Sabbateanism</a></li>
+<li><a href="#books">Books</a></li>
+</ul>
+</br>
+
 <h2 id="firstHeading" class="firstHeading" lang="en">Frankism</h2>
 <p>&nbsp;</p>
 <p><strong>Frankism</strong>&nbsp;was a&nbsp;<a class="mw-redirect" title="Sabbatean" href="https://en.wikipedia.org/wiki/Sabbatean">Sabbatean</a>&nbsp;Jewish religious movement of the 18th and 19th centuries,&nbsp;centered on the leadership of the&nbsp;<a class="mw-redirect" title="Jewish Messiah claimant" href="https://en.wikipedia.org/wiki/Jewish_Messiah_claimant">Jewish Messiah claimant</a>&nbsp;<a title="Jacob Frank" href="https://en.wikipedia.org/wiki/Jacob_Frank">Jacob Frank</a>, who lived from 1726 to 1791. Frank rejected religious norms, and said his followers were obligated to transgress as many moral boundaries as possible. At its height it claimed perhaps 500,000 followers, primarily&nbsp;<a title="Jews" href="https://en.wikipedia.org/wiki/Jews">Jews</a>&nbsp;living in&nbsp;<a title="Poland" href="https://en.wikipedia.org/wiki/Poland">Poland</a>&nbsp;and other parts of&nbsp;<a title="Eastern Europe" href="https://en.wikipedia.org/wiki/Eastern_Europe">Eastern Europe</a>.</p>
