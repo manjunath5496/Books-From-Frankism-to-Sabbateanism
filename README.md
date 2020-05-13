@@ -10,7 +10,7 @@
 <p>After Jacob Frank's death in 1791, his daughter&nbsp;<a title="Eve Frank" href="https://en.wikipedia.org/wiki/Eve_Frank">Eve</a>, who had been declared in 1770 to be the incarnation of the&nbsp;<a title="Shekhinah" href="https://en.wikipedia.org/wiki/Shekhinah">Shekhinah</a>, the dwelling of the&nbsp;<a title="Divine presence" href="https://en.wikipedia.org/wiki/Divine_presence">divine presence</a>, continued to lead the movement with her brothers.</p>
 
 </br>
-<h2 id="firstHeading" class="firstHeading" lang="en">Sabbateanism</h2>
+<h2 id="firstHeading1" class="firstHeading" lang="en">Sabbateanism</h2>
 <div id="bodyContent" class="mw-body-content">
 <div id="siteSub" class="noprint">&nbsp;</div>
 <div id="mw-content-text" class="mw-content-ltr" dir="ltr" lang="en">
@@ -260,7 +260,7 @@ Sabbatai Zevi "enthroned" as the&nbsp;<a class="mw-redirect" title="Jewish Messi
 </div>
 </div>
 </br>
-<h2> Books </h2>
+<h2 id="books"> Books </h2>
 
 
 <ul>
